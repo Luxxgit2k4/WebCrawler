@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "A crawler which runs over a site",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luxxgit2k4/WebCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luxxgit2k4/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/Luxxgit2k4/WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
